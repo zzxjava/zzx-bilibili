@@ -1,0 +1,4 @@
+# Project exclude paths
+/zzx-bilibili-api/target/
+/zzx-bilibili-dao/target/
+/zzx-bilibili-service/target/
